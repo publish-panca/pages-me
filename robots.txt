@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://publish-panca.github.io/pages-me/sitemap.xml

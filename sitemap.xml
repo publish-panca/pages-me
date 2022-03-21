@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://publish-panca.github.io/pages-me/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://publish-panca.github.io/pages-me/</loc>
+</url>
+<url>
+<loc>https://publish-panca.github.io/pages-me/testing/</loc>
+<lastmod>2022-03-21T18:20:58+07:00</lastmod>
+<image:image>
+<image:loc>https://publish-panca.github.io/pages-me/media/posts/1/Screenshot-from-2022-03-11-14-17-00.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://publish-panca.github.io/pages-me/media/posts/1/Screenshot-from-2022-03-21-10-21-52.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://publish-panca.github.io/pages-me/wrgwgwrgwrgwrg/</loc>
+<lastmod>2022-03-21T18:15:42+07:00</lastmod>
+<image:image>
+<image:loc>https://publish-panca.github.io/pages-me/media/posts/3/Screenshot-from-2022-03-18-21-27-03.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
